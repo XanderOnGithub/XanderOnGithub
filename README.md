@@ -10,6 +10,4 @@ I'm a comp-sci student, spending my time learning how to build different things.
 ## 🛠 Skills
 HTML, CSS, JS, Bootstrap, Tailwind, Java
 
-## Other Common Github Profile Sections
-
 🧠 I'm currently learning how to make an application using a javascript framework.
