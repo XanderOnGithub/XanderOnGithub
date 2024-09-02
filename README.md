@@ -10,4 +10,4 @@ I'm a comp-sci student, spending my time learning how to build different things.
 ## 🛠 Skills
 HTML, CSS, JS, Bootstrap, Tailwind, Java, SvelteKit
 
-🧠 I'm currently learning how to make an application using Svelte and Sveltekit.
+🧠 I'm currently learning React using NextJS.
