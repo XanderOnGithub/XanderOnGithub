@@ -8,6 +8,6 @@ I'm a comp-sci student, spending my time learning how to build different things.
 
 
 ## 🛠 Skills
-HTML, CSS, JS, Bootstrap, Tailwind, Java, SvelteKit, React
+HTML, CSS, JS, Bootstrap, Tailwind, Java, SvelteKit, React, NextJS, TinaCMS
 
 🧠 I'm currently making Projects in React. Sometimes making stuff in Unreal and Godot for fun.
