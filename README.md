@@ -29,7 +29,7 @@ Self-hosted apps built to work seamlessly in my household. Stored in plain JSON 
 I use agentic coding tools, mainly Claude, but the application is still mine. I know how I want software to work and feel, and I write a detailed plan before any agent touches the code. My projects include an `AGENTS.md` that describes what I want, how I want it built, and what it takes for it to work.
 
 - **I write:** the design, the front-end layouts, and as much code as I can (hand-coding is still a valuable skill)
-- **Agents help with:** boilerplate and heavier logic, built against my spec
+- **Agents help with:** boilerplate and heavier logic, built against my design, organization, and spec
 - **Git:** Claude helps me write commits and PRs, which keeps my history consistent and has taught me better Git habits
 - **Every change:** goes through automated checks and gets reviewed by me against the spec before it ships
 
