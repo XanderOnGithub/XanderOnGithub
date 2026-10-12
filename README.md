@@ -19,5 +19,5 @@ Self-Hosted apps built to work seamlessly in my household. Stored in plain JSON 
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,java,cpp,go,html,css)](https://skillicons.dev)
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=docker,githubactions,vercel,azure,figma,unreal)](https://skillicons.dev) 
+[![Tools](https://skillicons.dev/icons?i=docker,githubactions,vercel,azure,figma,unreal)](https://skillicons.dev)  
 <sub>JavaScript, TypeScript, Java, C++, Go, React, Next.js, Svelte, Tailwind, Docker, GitHub Actions, Vercel, Azure, Figma, Unreal Engine</sub>
