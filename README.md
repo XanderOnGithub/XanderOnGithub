@@ -5,7 +5,9 @@ CS Senior @ Miami University and SWE Intern @ Kroger. I like building small, foc
 
 ## What I'm Currently Building
 
-**[home-tools](https://github.com/XanderOnGithub/home-tools)** — self-hosted tools for my household:
+**[home-tools](https://github.com/XanderOnGithub/home-tools)**:
+
+Self-Hosted apps built to work seamlessly in my household. Stored in plain JSON on my ZimaOS Server.
 
 - **Fitness:** exercises, plans, and routines, plus a view of which muscles were worked and which need recovery
 - **Game servers:** a control panel for our containerized Minecraft and Valheim servers
