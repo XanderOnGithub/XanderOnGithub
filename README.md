@@ -5,7 +5,7 @@ CS Senior @ Miami University and SWE Intern @ Kroger. I like building small, foc
 
 ## What I'm Currently Building
 
-**[home-tools](https://github.com/XanderOnGithub/home-tools)**:
+### **[home-tools](https://github.com/XanderOnGithub/home-tools)**
 
 Self-Hosted apps built to work seamlessly in my household. Stored in plain JSON on my ZimaOS Server.
 
