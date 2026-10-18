@@ -15,9 +15,9 @@ Self-hosted apps built to work seamlessly in my household. Stored in plain JSON 
 
 **Built with:** Go, Svelte 5, TypeScript, Docker, Caddy, GitHub Actions → GHCR → ZimaOS
 
-### **[moss](https://github.com/XanderOnGithub/task-manager)**
+### **[moss°](https://github.com/XanderOnGithub/task-manager)**
 
-Personal project management software, created to learn how to use Claude more effectively. Stored in JSON on the device
+Personal project management software, created to learn how to use Claude more effectively. Stored in Markdown locally.
 
 - **Project Management:** Has list & board views to keep track of tasks
 - **Documentation:** Has a rich-text Markdown editor and page structure for documentation
