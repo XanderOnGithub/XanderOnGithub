@@ -15,6 +15,16 @@ Self-hosted apps built to work seamlessly in my household. Stored in plain JSON 
 
 **Built with:** Go, Svelte 5, TypeScript, Docker, Caddy, GitHub Actions → GHCR → ZimaOS
 
+### **[moss](https://github.com/XanderOnGithub/task-manager)**
+
+Personal project management software, created to learn how to use Claude more effectively. Stored in JSON on the device
+
+- **Project Management:** Has list & board views to keep track of tasks
+- **Documentation:** Has a rich-text Markdown editor and page structure for documentation
+- **Designed by Me:** I designed every aspect of this program. I've been thinking about this project for over a year, wanting to make a project management software without using Agile terms.
+
+**Built with:** TypeScript, React, Rust, Tauri, GitHub Actions
+
 ## Tools I've Worked With
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,java,cpp,go,html,css)](https://skillicons.dev)
